@@ -71,7 +71,7 @@ img {
   }
 
   .card-img {
-
+    display: inline-block;
   }
 }
 
