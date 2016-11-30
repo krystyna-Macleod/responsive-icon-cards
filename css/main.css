@@ -85,20 +85,24 @@ body {
     display: inline-block;
     text-align: left;
     margin: 0;
-    width: 30%;
+    width: 15%;
   }
 
   .body {
     display: inline-block;
-    width: 60%;
+    width: 80%;
     margin: 0;
   }
-
 
   .card-body {
     display: inline-block;
     text-align: left;
     margin: 0;
+    width: 100%;
+  }
+
+  .card-img {
+    text-align: left;
     width: 100%;
   }
 
